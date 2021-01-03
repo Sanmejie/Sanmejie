@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue、github actions、docker、K8s、influxDB、PymongoDB、newman...
 - 👯 I’m looking to collaborate on apitest、python related open source project.
 
-- 📫 How to reach me: <a href="liyapong@foxmail.com">email</a>、[github](https://github.com/Sanmejie/Sanmejie/issues)
+- 📫 How to reach me: [github](https://github.com/Sanmejie/Sanmejie/issues)
 - 😄 Pronouns: Be water ，my friend！
 
 ### Languages and Tools:
