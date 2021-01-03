@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on [auto app test](https://gitee.com/sanmejie/my_app_test)、[imaginary.linux.plus](https://linux.plus/)...
+- 🔭 I’m currently working on [auto app test](https://gitee.com/sanmejie/my_app_test)、[imaginary.linux.plus](https://linux.plus/)、Android devices performance test ...
 - 🌱 I’m currently learning Vue、github actions、docker、K8s、influxDB、PymongoDB、newman...
 - 👯 I’m looking to collaborate on apitest、python related open source project.
 
@@ -58,13 +58,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="postman" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/postman.png" />
 
-<img align="left" alt="FFmpeg" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/FFmpeg_icon.png" />
-
 <img align="left" alt="pycharm" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/images.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="photoshop" width="26px" src="https://gitee.com/sanmejie/img/raw/main/img/photoshop.png" />
+
+<img align="left" alt="Tampermonkey" width="26px" src="https://gitee.com/sanmejie/img/raw/main/img/Tampermonkey.png" />
 
 <br/>
 
@@ -111,6 +111,10 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 
 ​	<br/>
 
+<img align="left" alt="locust" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/locust.png" />
+
+<img align="left" alt="FFmpeg" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/FFmpeg_icon.png" />
+
 <img align="left" alt="sql" width="30px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -118,7 +122,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="nginx" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/nginx.png" />
 
-<img align="left" alt="Apache_kafka" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Apache_kafka.png" />
+<img align="left" alt="Apache_kafka" width="26px" src="https://gitee.com/sanmejie/img/raw/main/img/Apache_kafka.png" />
 
 <img align="left" alt="Springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 
