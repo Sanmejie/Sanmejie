@@ -18,10 +18,6 @@
 <img align="left" alt="python" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Java" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/java.png" />
-
-<img align="left" alt="node" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/node-js-and-react-js.png" />
-
 <img align="left" alt="open_api" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/OpenAPI.png" />
 
 <img align="left" alt="GitHub" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/slenium.png" />
@@ -32,40 +28,23 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="requests" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/Requests_Python_Logo.png" />
 
+<img align="left" alt="jmeter" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/jmeter.svg" />
+
 <img align="left" alt="jenkins" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/jenkinscn.png" />
 
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<br/><br/>
-
-<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img align="left" alt="sql" width="30px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 
+<img align="left" alt="Android" width="32px" src="https://gitee.com/sanmejie/img/raw/main/img/ADB.png"/>
+
 <img align="left" alt="ios" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"/>
-
-<img align="left" alt="Springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
-
-<img align="left" alt="MongoDB" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/mongo.png" />
-
-<img align="left" alt="k8s" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Kubernetes-Logo.wine.png" />
 
 <img align="left" alt="docker" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/docker.png" />
 
 <img align="left" alt="fidder" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/fiddler.png" />
 
 <img align="left" alt="postman" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/postman.png" />
-
-<img align="left" alt="Wireshark" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/wireshark.png" />
-
-<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
 <img align="left" alt="pycharm" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/images.jpg" />
 
@@ -77,7 +56,39 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ​		<br/><br/>
 
+---
 
+### Region of interest
+
+<img align="left" alt="groovy" width="40px"
+src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
+
+<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
+<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
+
+<img align="left" alt="Java" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/java.png" />
+
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="node" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/node-js-and-react-js.png" />
+
+<img align="left" alt="MongoDB" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/mongo.png" />
+
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="influxdb" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/influxdb.jpg" />
+
+<img align="left" alt="sql" width="30px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="Springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+
+<img align="left" alt="k8s" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Kubernetes-Logo.wine.png" />
+
+<img align="left" alt="Wireshark" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/wireshark.png" />
+
+​		<br/><br/>
 
 ---
 
