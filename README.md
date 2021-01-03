@@ -81,6 +81,8 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 
 <img align="left" alt="node" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/node-js-and-react-js.png" />
 
+<img align="left" alt="gradle" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/gradle.jpg" />
+
 <img align="left" alt="MongoDB" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/mongo.png" />
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
