@@ -117,3 +117,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanmejie&show_icons=true&theme=gruvbox)
+
+
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmejie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
