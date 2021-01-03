@@ -44,4 +44,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanmejie&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanmejie&show_icons=true&theme=gruvbox)
