@@ -26,7 +26,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="pytest" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/pytest_logo_curves.svg" />
 
+<img align="left" alt="allure.png" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/allure.png" />
+
 <img align="left" alt="requests" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/Requests_Python_Logo.png" />
+
+<img align="left" alt="solopi" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/solopi.png" />
+
+<img align="left" alt="airtest" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/airtest.png" />
 
 <img align="left" alt="jmeter" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/jmeter.svg" />
 
@@ -39,10 +45,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Android" width="32px" src="https://gitee.com/sanmejie/img/raw/main/img/ADB.png"/>
 
 <img align="left" alt="ios" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"/>
-
-<br/>
-
-​	<br/>
 
 <img align="left" alt="docker" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/docker.png" />
 
@@ -64,9 +66,19 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ​	<br/>
 
+<br/>
+
+​	<br/>
+
 ---
 
 ### Region of interest
+
+<img align="left" alt="Robot-framework.png" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Robot-framework.png" />
+
+<img align="left" alt="httprunner" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/httprunner.png" />
+
+<img align="left" alt="sonarqube" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/sonarqube.png" />
 
 <img align="left" alt="groovy" width="40px"
 src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
@@ -89,10 +101,20 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+<img align="left" alt="Prometheus" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Prometheus.png" />
+
 <img align="left" alt="influxdb" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/influxdb.jpg" />
+
+<img align="left" alt="grafana" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/grafana.png" />
 
 <img align="left" alt="sql" width="30px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<img align="left" alt="redis" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/redis.jpg" />
+
+<img align="left" alt="nginx" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/nginx.png" />
+
+<img align="left" alt="Apache_kafka" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Apache_kafka.png" />
 
 <img align="left" alt="Springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 
