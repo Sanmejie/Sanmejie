@@ -42,6 +42,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="docker" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/docker.png" />
 
+<br/>
+
 <img align="left" alt="fidder" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/fiddler.png" />
 
 <img align="left" alt="postman" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/postman.png" />
@@ -49,6 +51,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="pycharm" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/images.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="photoshop" width="26px" src="https://gitee.com/sanmejie/img/raw/main/img/photoshop.png" />
 
 <br/>
 
