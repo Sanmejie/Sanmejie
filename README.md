@@ -109,11 +109,11 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 
 <img align="left" alt="influxdb" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/influxdb.jpg" />
 
-<img align="left" alt="grafana" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/grafana.png" />
-
 <br/>
 
 ​	<br/>
+
+<img align="left" alt="grafana" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/grafana.png" />
 
 <img align="left" alt="locust" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/locust.png" />
 
