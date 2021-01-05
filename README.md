@@ -83,21 +83,21 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="sonarqube" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/sonarqube.png" />
 
 <img align="left" alt="groovy" width="40px"
-src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
+src="https://gitee.com/sanmejie/img/raw/main/img/Apache_Groovy.svg" />
 
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
-<img align="left" alt="shell-scripting" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/shell-scripting.jpg" />
+<img align="left" alt="shell-scripting" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/shell-scripting.png" />
 
 <img align="left" alt="Java" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/java.png" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="node" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/node-js-and-react-js.png" />
+<img align="left" alt="node" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/node-js.png" />
 
-<img align="left" alt="gradle" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/gradle.jpg" />
+<img align="left" alt="gradle" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/gradle.png" />
 
 <img align="left" alt="scrapy" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/scrapy.png" />
 
@@ -107,7 +107,7 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 
 <img align="left" alt="Prometheus" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/Prometheus.png" />
 
-<img align="left" alt="influxdb" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/influxdb.jpg" />
+<img align="left" alt="influxdb" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/influxdb.png" />
 
 <br/>
 
@@ -122,7 +122,7 @@ src="https://gitee.com/sanmejie/img/raw/main/img/groovy.png" />
 <img align="left" alt="sql" width="30px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="redis" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/redis.jpg" />
+<img align="left" alt="redis" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/redis.png" />
 
 <img align="left" alt="nginx" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/nginx.png" />
 
