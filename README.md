@@ -11,20 +11,20 @@
 
 <img align="left" alt="GitHub" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/linux.png" />
 
-<img align="left" alt="win0" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" />
+<img align="left" alt="win0" width="27px" src="https://gitee.com/sanmejie/img/raw/main/img/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" />
 
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="python" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="open_api" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/OpenAPI.png" />
+<img align="left" alt="open_api" width="33px" src="https://gitee.com/sanmejie/img/raw/main/img/OpenAPI.png" />
 
 <img align="left" alt="GitHub" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/slenium.png" />
 
 <img align="left" alt="appium" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/appium.webp"/>
 
-<img align="left" alt="pytest" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/pytest_logo_curves.svg" />
+<img align="left" alt="pytest" width="43px" src="https://gitee.com/sanmejie/img/raw/main/img/pytest_logo_curves.svg" />
 
 <img align="left" alt="allure.png" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/allure.png" />
 
@@ -38,7 +38,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="jenkins" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/jenkinscn.png" />
 
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 
@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="charles" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/charles.png" />
 
-<img align="left" alt="mitmproxy" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/mitmproxy.png" />
+<img align="left" alt="mitmproxy" width="27px" src="https://gitee.com/sanmejie/img/raw/main/img/mitmproxy.png" />
 
 <img align="left" alt="postman" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/postman.png" />
 
@@ -115,18 +115,18 @@ src="https://gitee.com/sanmejie/img/raw/main/img/Apache_Groovy.svg" />
 
 <img align="left" alt="grafana" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/grafana.png" />
 
-<img align="left" alt="locust" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/locust.png" />
+<img align="left" alt="locust" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/locust.png" />
 
 <img align="left" alt="FFmpeg" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/FFmpeg_icon.png" />
 
-<img align="left" alt="sql" width="30px"
+<img align="left" alt="sql" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="redis" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/redis.png" />
 
 <img align="left" alt="nginx" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/nginx.png" />
 
-<img align="left" alt="Apache_kafka" width="26px" src="https://gitee.com/sanmejie/img/raw/main/img/Apache_kafka.png" />
+<img align="left" alt="Apache_kafka" width="25px" src="https://gitee.com/sanmejie/img/raw/main/img/Apache_kafka.png" />
 
 <img align="left" alt="Springboot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
 
