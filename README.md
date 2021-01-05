@@ -91,7 +91,7 @@ src="https://gitee.com/sanmejie/img/raw/main/img/Apache_Groovy.svg" />
 
 <img align="left" alt="shell-scripting" width="30px" src="https://gitee.com/sanmejie/img/raw/main/img/shell-scripting.png" />
 
-<img align="left" alt="Java" width="40px" src="https://gitee.com/sanmejie/img/raw/main/img/java.png" />
+<img align="left" alt="Java" width="35px" src="https://gitee.com/sanmejie/img/raw/main/img/java.png" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
